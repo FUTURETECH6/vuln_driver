@@ -1,0 +1,11 @@
+.DS_Store
+.tmp_*
+
+*.o
+*.out
+*.cmd
+*.ko
+*.mod*
+
+Module.symvers
+modules.order
